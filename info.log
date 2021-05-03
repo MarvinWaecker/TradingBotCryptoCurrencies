@@ -1,0 +1,62 @@
+2021-04-26 15:22:38,204 INFO :: This message just shows basic information
+2021-04-26 15:22:38,204 WARNING :: This message is about something you should pay attention to
+2021-04-26 15:22:38,204 ERROR :: This message helps to debug an error that occurred in your program
+2021-04-26 15:26:33,087 INFO :: This message just shows basic information
+2021-04-26 15:26:33,088 WARNING :: This message is about something you should pay attention to
+2021-04-26 15:26:33,088 ERROR :: This message helps to debug an error that occurred in your program
+2021-04-26 15:26:33,088 INFO :: Hello from the Binance connector
+2021-04-29 17:41:47,443 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 17:45:40,920 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 17:46:34,895 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 17:46:35,306 INFO :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400
+2021-04-29 17:46:46,595 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 17:47:38,018 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 17:48:39,595 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 17:50:23,732 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 18:30:19,433 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 18:30:20,060 INFO :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 37.201.7.145'} (error code 401
+2021-04-29 18:33:35,886 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 18:33:36,820 INFO :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 37.201.7.145'} (error code 401
+2021-04-29 18:45:59,754 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 18:46:00,261 INFO :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 37.201.7.145'} (error code 401
+2021-04-29 18:50:34,468 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 18:50:35,037 INFO :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 37.201.7.145'} (error code 401
+2021-04-29 18:52:19,674 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 18:52:20,651 INFO :: Error while making GET request to /fapi/v1/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 37.201.7.145'} (error code 401
+2021-04-29 18:56:44,369 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 18:56:45,270 INFO :: Error while making GET request to /fapi/v1/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 37.201.7.145'} (error code 401
+2021-04-29 18:59:31,312 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 18:59:32,285 INFO :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 37.201.7.145'} (error code 401
+2021-04-29 19:10:42,480 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 19:10:43,431 INFO :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 37.201.7.145'} (error code 401
+2021-04-29 19:16:03,002 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 21:26:27,039 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 21:26:58,400 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 21:27:07,793 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 21:27:08,351 INFO :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 37.201.7.145'} (error code 401
+2021-04-29 21:27:18,418 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 21:33:42,709 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 21:33:43,226 INFO :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 37.201.7.145'} (error code 401
+2021-04-29 21:33:52,206 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 21:33:52,704 INFO :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 37.201.7.145'} (error code 401
+2021-04-29 21:49:34,683 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 21:49:51,553 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 21:55:00,009 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 22:10:53,010 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 22:11:31,077 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 22:12:30,137 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 22:14:04,874 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 22:14:23,078 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 22:15:42,296 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 22:15:50,314 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 22:16:52,482 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 22:18:10,392 INFO :: Binance Futures Client succesfully initialized
+2021-04-29 22:18:36,970 INFO :: Binance Futures Client succesfully initialized
+2021-04-30 18:36:03,251 INFO :: Binance Futures Client succesfully initialized
+2021-04-30 18:36:04,366 INFO :: Binance Websocket connection opened
+2021-04-30 18:46:25,784 INFO :: Binance Futures Client succesfully initialized
+2021-04-30 18:46:26,925 INFO :: Binance Websocket connection opened
+2021-04-30 18:48:30,233 INFO :: Binance Futures Client succesfully initialized
+2021-04-30 18:48:31,523 INFO :: Binance Websocket connection opened
+2021-04-30 18:49:21,238 INFO :: Binance Futures Client succesfully initialized
+2021-04-30 18:49:22,442 INFO :: Binance Websocket connection opened
