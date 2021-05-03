@@ -1,1 +1,4 @@
-### This is the README File
+### Trading Bot
+
+This project was created to track my progress on the course Trading Bot for Crypto Currencies, which I'm enrolled in. 
+
